@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "let me search",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "显示淘宝二手、闲鱼搜索功能",
+    "description": "The description of the application"
+  }
+}
