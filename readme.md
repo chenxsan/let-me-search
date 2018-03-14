@@ -1,6 +1,6 @@
 # Let me search
 
-这是一个浏览器扩展，支持 Firefox、Chrome，用于解除知乎“禁止转载”的限制。
+这是一个浏览器扩展，支持 Firefox、Chrome，用于显示淘宝二手即闲鱼的搜索框。
 
 ## 安装
 
